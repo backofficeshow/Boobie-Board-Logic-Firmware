@@ -5,7 +5,7 @@
 //Boobie Config = 
 //Int OSC
 //Ra0 (pin9) = Reference Voltage - use 1/100 voltage divider connected to VIN
-//Ra1 (pin10) = Probe Voltage - use 1/100 voltage divider
+//Ra1 (pin10) = Probe Voltage - use 1/10 voltage divider
 //RC0 to RC2 (pin13 to 15) = Status LEDS
 //POWERSRC JUMPER should be switched to VIN (not USB)
 
